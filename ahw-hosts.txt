@@ -3,6 +3,7 @@
 # Untangle Web Monitor
 172.0.0.1 o.ss2.us
 172.0.0.1 ocsp.starfieldtech.com
+172.0.0.1 resetpixel.co
 
 # Google
 127.0.0.1       	www.googleadservices.com
