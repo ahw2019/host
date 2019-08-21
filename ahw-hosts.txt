@@ -1,5 +1,16 @@
 # Created by AHW
 
+# Google
+127.0.0.1       	www.googleadservices.com
+127.0.0.1       	googleads.g.doubleclick.net
+127.0.0.1       	securepubads.g.doubleclick.net
+127.0.0.1       	ad.doubleclick.net
+127.0.0.1       	ssl.google-analytics.com
+127.0.0.1       	clients1.google.com
+127.0.0.1       	adservice.google.de
+127.0.0.1       	ade.googlesyndication.com
+127.0.0.1       	id.google.de
+
 # Facebook
 127.0.0.1       	graph.facebook.com
 127.0.0.1       	b-graph.facebook.com
@@ -61,17 +72,6 @@
 127.0.0.1       	m.quantcount.com
 127.0.0.1       	app.adjust.com
 127.0.0.1       	utraffic.engine.adglare.net
-	
-# Google
-127.0.0.1       	www.googleadservices.com
-127.0.0.1       	googleads.g.doubleclick.net
-127.0.0.1       	securepubads.g.doubleclick.net
-127.0.0.1       	ad.doubleclick.net
-127.0.0.1       	ssl.google-analytics.com
-127.0.0.1       	clients1.google.com
-127.0.0.1       	adservice.google.de
-127.0.0.1       	ade.googlesyndication.com
-127.0.0.1       	id.google.de
 	
 # Apple
 127.0.0.1       	stats.gc.apple.com
